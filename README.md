@@ -1,2 +1,2 @@
 # Stepmotor-drive-RPI
-+Control step motor through wiringPI on Raspberry Pi
+## Control step motor through wiringPI on Raspberry Pi
